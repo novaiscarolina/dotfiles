@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = carol.novais@gmail.com
+	name = Carolina Novais
